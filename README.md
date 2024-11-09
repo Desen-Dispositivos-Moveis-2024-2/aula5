@@ -1,4 +1,4 @@
-# Aula 8: Navegação entre Telas no React Native# aula5
+# Aula 8: Navegação entre Telas no React Native
 
 Instale as dependencias 
 ```
